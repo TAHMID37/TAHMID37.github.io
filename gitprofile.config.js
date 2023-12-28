@@ -11,11 +11,11 @@ const config = {
     },
   },
   social: {
-    linkedin: 'https://www.linkedin.com/in/trahmanrifat',
+    linkedin: 'trahmanrifat',
     twitter: '',
     mastodon: '',
-    facebook: 'https://www.facebook.com/people/Tahmid-Rahman/pfbid02h2YEitRYiHhR1ECq4HUHZNEZdYYX8mmn1p5cMcgSJ3Q4EgSshkQTnhgecN5Ysvtal/',
-    instagram: 'https://www.instagram.com/i.m.tahmid/',
+    facebook: '',
+    instagram: 'i.m.tahmid',
     youtube: '', // example: 'pewdiepie'
     dribbble: '',
     behance: '',
@@ -34,6 +34,7 @@ const config = {
   },
   skills: [
     'Python',
+    'Django',
     'Fastapi',
     'Natural Language Processing (NLP)',
     'Langchain',
