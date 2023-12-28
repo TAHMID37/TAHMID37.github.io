@@ -103,8 +103,8 @@ const config = {
   // Display blog posts from your medium or dev account. (Optional)
   blog: {
     source: 'https://medium.com/geekculture/implementing-k-means-clustering-with-k-means-initialization-in-python-7ca5a859d63a', // medium | dev
-    username: 'Tahmid37', // to hide blog section, keep it empty
-    limit: 2, // How many posts to display. Max is 10.
+    username: 'Moosa Ali', // to hide blog section, keep it empty
+    limit: 1, // How many posts to display. Max is 10.
   },
   googleAnalytics: {
     id: '', // GA3 tracking id/GA4 tag id UA-XXXXXXXXX-X | G-XXXXXXXXXX
