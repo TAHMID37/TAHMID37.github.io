@@ -14,7 +14,7 @@ const config = {
     linkedin: 'trahmanrifat',
     twitter: '',
     mastodon: '',
-    facebook: '',
+    facebook: 'profile.php?id=100010343971752',
     instagram: 'i.m.tahmid',
     youtube: '', // example: 'pewdiepie'
     dribbble: '',
@@ -102,7 +102,7 @@ const config = {
   ],
   // Display blog posts from your medium or dev account. (Optional)
   blog: {
-    source: '', // medium | dev
+    source: 'https://medium.com/geekculture/implementing-k-means-clustering-with-k-means-initialization-in-python-7ca5a859d63a', // medium | dev
     username: 'Tahmid37', // to hide blog section, keep it empty
     limit: 2, // How many posts to display. Max is 10.
   },
