@@ -4,18 +4,18 @@ const config = {
   github: {
     username: 'TAHMID37', // Your GitHub org/user name. (Required)
     sortBy: 'stars', // stars | updated
-    limit: 5, // How many projects to display.
+    limit: 8 // How many projects to display.
     exclude: {
       forks: false, // Forked projects will not be displayed if set to true.
       projects: [], // These projects will not be displayed. example: ['my-project1', 'my-project2']
     },
   },
   social: {
-    linkedin: 'https://www.linkedin.com/in/trahmanrifat/ariful-alam',
+    linkedin: 'https://www.linkedin.com/in/trahmanrifat/',
     twitter: '',
     mastodon: '',
-    facebook: 'https://www.facebook.com/profile.php?id=100010343971752',
-    instagram: 'https://www.instagram.com/i.m.tahmid/',
+    facebook: 'https://www.facebook.com/people/Tahmid-Rahman/pfbid02h2YEitRYiHhR1ECq4HUHZNEZdYYX8mmn1p5cMcgSJ3Q4EgSshkQTnhgecN5Ysvtal/',
+    instagram: '',
     youtube: '', // example: 'pewdiepie'
     dribbble: '',
     behance: '',
@@ -114,7 +114,7 @@ const config = {
     snippetVersion: 6,
   },
   themeConfig: {
-    defaultTheme: 'black',
+    defaultTheme: 'lemonade',
 
     // Hides the switch in the navbar
     // Useful if you want to support a single color mode
